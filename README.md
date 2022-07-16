@@ -1,4 +1,4 @@
-Lightning Web Components are super fun!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Lightning Web Components are super fun!!!!!!!!!!!!!!!!!
 
 # Salesforce DX Project: Next Steps
 
